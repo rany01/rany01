@@ -6,11 +6,13 @@
 
 ### Sobre mim
 
-Sou um profissional em transição de carreira para a área de TI, com uma trajetória diversificada que inclui design gráfico, marketing e pesquisa em tecnologias e educação. Minha jornada começou com uma graduação em Design Gráfico, onde desenvolvi uma base sólida em semiótica, percepção e filosofia das cores, comunicação visual, design editorial, etc. Posteriormente, me aprofundei na pesquisa em tecnologias e educação, o que ampliou minha visão sobre o impacto da tecnologia no desenvolvimento cognitivo humano.
+Sou um profissional em transição de carreira para a área de Tecnologia da Informação, com foco em DevOps, computação em nuvem e automação. Tenho experiência prática em ferramentas e tecnologias essenciais, incluindo AWS e Google Cloud Platform (GCP), além de habilidades avançadas com Docker, Kubernetes, Terraform e pipelines de CI/CD.
 
-Agora, estou em uma nova jornada, focado em análise de dados, machine learning, cloud computing e inovação. Durante essa transição, aproveitei minha experiência anterior para trazer uma abordagem criativa e analítica na resolução de problemas. Minha formação em design gráfico me proporcionou habilidades valiosos em comunicação visual e atenção aos detalhas, enquanto minha experiencia como pesquisador me ensinou a ser meticuloso, curioso e sempre em busca de novas soluções.
+Minha jornada combina habilidades técnicas com uma abordagem criativa e colaborativa para resolver problemas e implementar soluções eficientes e escaláveis. Estou constantemente buscando aprender e aplicar novas tecnologias que impulsionem a inovação e a otimização de processos.
 
-Sou uma pessoa comunicativa e colaborativa, com forte habilidade para trabalhar em equipe e liderar projetos. Minha atitude proativa me leva a buscar constantemente soluções inovadoras e eficientes. Aprende rapidamente novas tecnologias e conceitos, o que me permite adaptar-me facilmente a diferentes desafios. Além disso, sou autodidata e constantemente busco aprimorar minhas habilidades e conhecimentos para contribuir de maneira eficaz e significativa para o sucesso da organização.
+Acredito na importância da automação e da integração contínua para melhorar a produtividade e a entrega de valor em projetos.
+
+Sou uma pessoa comunicativa e colaborativa, com forte habilidade para trabalhar em equipe e liderar projetos. Minha atitude proativa me leva a buscar constantemente soluções inovadoras e eficientes. Aprendo rapidamente novas tecnologias e conceitos, o que me permite adaptar-me facilmente a diferentes desafios. Além disso, sou autodidata e constantemente busco aprimorar minhas habilidades e conhecimentos para contribuir de maneira eficaz e significativa para o sucesso da organização.
 
 
 ### Skills
@@ -21,32 +23,30 @@ Sou uma pessoa comunicativa e colaborativa, com forte habilidade para trabalhar 
 
   • Machine Learning <!--(Modelos supervisionados, não supervisionados, deep learning e LLMs)-->
 
-  • Estatística para análise de dados
+  • Container & Docker
+  
+  • Kubernetes
+  
+  • Terraform
+  
+  • GitOps
+  
+  • ArgoCD
 
-  • Git & Version Control
+  • Git & GitHub
+  
+  • AWS
 
   • Google Cloud
 
 
 ### Eu estou estudando...
 
-  • Apache Airflow
-
-  • Tableau e PowerBI
-
   • Azure
 
-  • TensorFlow
-
-  • Scikit-learn
-
-  • Pandas
-
-  • Numpy
-
-  • Matplotlib
-
-  • Seaborn
+  • Prometheus
+  
+  • Istio
 
 
 ### Entre em contato comigo! 📭
