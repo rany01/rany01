@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 # Oi, me chamo Rany! 👋
@@ -14,34 +15,35 @@
 
 💡 Acredito na automação como motor de inovação e produtividade — e busco aplicar isso em cada projeto.
 
-<!--🔗 Veja meus projetos abaixo!-->
 
+<!--🔗 Veja meus projetos abaixo!-->
+#
 🛠️ Skills
 
-### ☁️ Infraestrutura & Cloud:
+#### ☁️ Infraestrutura & Cloud:
   • AWS (EC2, S3, IAM, RDS, VPC)
   • Google Cloud Platform (GCP)
   • Terraform (Infraestrutura como Código)
 
-### 🐳 Containers & Orquestração:
+#### 🐳 Containers & Orquestração:
   • Docker (build, compose, imagens otimizadas)
   • Kubernetes (Kind, Minikube, EKS)
 
-### 🔁 CI/CD & Automação:
+#### 🔁 CI/CD & Automação:
   • GitHub Actions
   • Git & Git Flow
   • GitOps com ArgoCD
 
-### 📈 Monitoramento & Observabilidade:
+#### 📈 Monitoramento & Observabilidade:
   • Prometheus
   • Grafana
   • Logs e métricas básicas
 
-### 💻 Outros conhecimentos:
+#### 💻 Outros conhecimentos:
   • Linux (linha de comando, shell scripting)
   • Redes (conceitos básicos de DNS, TCP/IP, subnets)
   • Markdown, documentação técnica
-
+#
 <!--### Skills
 
   • Python <!--(scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)-->
@@ -67,13 +69,13 @@
   • Google Cloud-->
 
 
-### Eu estou estudando...
+#### Eu estou estudando...
 
   • Azure
   • Istio
 
 
-### Entre em contato comigo! 📭
+#### Entre em contato comigo! 📭
   • e-mail: ranilson.reinaldo@gmail.com
   <div><a href="https://www.linkedin.com/in/ranyreinaldo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
