@@ -18,26 +18,26 @@
 
 🛠️ Skills
 
-Infraestrutura & Cloud:
+### ☁️ Infraestrutura & Cloud:
   • AWS (EC2, S3, IAM, RDS, VPC)
   • Google Cloud Platform (GCP)
   • Terraform (Infraestrutura como Código)
 
-Containers & Orquestração:
+### 🐳 Containers & Orquestração:
   • Docker (build, compose, imagens otimizadas)
   • Kubernetes (Kind, Minikube, EKS)
 
-CI/CD & Automação:
+### 🔁 CI/CD & Automação:
   • GitHub Actions
   • Git & Git Flow
   • GitOps com ArgoCD
 
-Monitoramento & Observabilidade:
+### 📈 Monitoramento & Observabilidade:
   • Prometheus
   • Grafana
   • Logs e métricas básicas
 
-Outros conhecimentos:
+### 💻 Outros conhecimentos:
   • Linux (linha de comando, shell scripting)
   • Redes (conceitos básicos de DNS, TCP/IP, subnets)
   • Markdown, documentação técnica
