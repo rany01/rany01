@@ -6,24 +6,51 @@
 
 ### Sobre mim
 
-Sou um profissional em transição de carreira para a área de Tecnologia da Informação, com foco em DevOps, computação em nuvem e automação. Tenho experiência prática em ferramentas e tecnologias essenciais, incluindo AWS e Google Cloud Platform (GCP), além de habilidades avançadas com Docker, Kubernetes, Terraform e pipelines de CI/CD.
+🎯 Engenheiro DevOps em formação com experiência prática em automação de infraestrutura, containers e nuvem (AWS e GCP). Trabalho com IaC utilizando Terraform, pipelines de CI/CD com GitHub Actions, orquestração de containers com Kubernetes (Kind, Minikube e EKS), além de Docker e versionamento com Git.
 
-Minha jornada combina habilidades técnicas com uma abordagem criativa e colaborativa para resolver problemas e implementar soluções eficientes e escaláveis. Estou constantemente buscando aprender e aplicar novas tecnologias que impulsionem a inovação e a otimização de processos.
+📦 Desenvolvo e mantenho ambientes de laboratório para aplicações em nuvem, aplicando conceitos de segurança, escalabilidade e boas práticas DevOps. Participo ativamente de projetos próprios, focando na construção de ambientes reproduzíveis e automatizados.
 
-Acredito na importância da automação e da integração contínua para melhorar a produtividade e a entrega de valor em projetos.
+🧠 Autodidata, comunicativo e focado em aprender continuamente tecnologias como GitOps (ArgoCD), observabilidade e microsserviços.
 
-Sou uma pessoa comunicativa e colaborativa, com forte habilidade para trabalhar em equipe e liderar projetos. Minha atitude proativa me leva a buscar constantemente soluções inovadoras e eficientes. Aprendo rapidamente novas tecnologias e conceitos, o que me permite adaptar-me facilmente a diferentes desafios. Além disso, sou autodidata e constantemente busco aprimorar minhas habilidades e conhecimentos para contribuir de maneira eficaz e significativa para o sucesso da organização.
+💡 Acredito na automação como motor de inovação e produtividade — e busco aplicar isso em cada projeto.
 
+<!--🔗 Veja meus projetos abaixo!-->
 
-### Skills
+🛠️ Skills
+
+Infraestrutura & Cloud:
+  • AWS (EC2, S3, IAM, RDS, VPC)
+  • Google Cloud Platform (GCP)
+  • Terraform (Infraestrutura como Código)
+
+Containers & Orquestração:
+  • Docker (build, compose, imagens otimizadas)
+  • Kubernetes (Kind, Minikube, EKS)
+
+CI/CD & Automação:
+  • GitHub Actions
+  • Git & Git Flow
+  • GitOps com ArgoCD
+
+Monitoramento & Observabilidade:
+  • Prometheus
+  • Grafana
+  • Logs e métricas básicas
+
+Outros conhecimentos:
+  • Linux (linha de comando, shell scripting)
+  • Redes (conceitos básicos de DNS, TCP/IP, subnets)
+  • Markdown, documentação técnica
+
+<!--### Skills
 
   • Python <!--(scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)-->
 
-  • SQL
+<!--  • SQL
 
   • Machine Learning <!--(Modelos supervisionados, não supervisionados, deep learning e LLMs)-->
 
-  • Container & Docker
+<!--  • Container & Docker
   
   • Kubernetes
   
@@ -37,15 +64,12 @@ Sou uma pessoa comunicativa e colaborativa, com forte habilidade para trabalhar 
   
   • AWS
 
-  • Google Cloud
+  • Google Cloud-->
 
 
 ### Eu estou estudando...
 
   • Azure
-
-  • Prometheus
-  
   • Istio
 
 
