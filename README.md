@@ -5,7 +5,7 @@
 
 ## Bem-vindo(a) ao meu repositório!
 
-Acredito que automação, observabilidade e padronização são a base para sistemas confiáveis e escaláveis — e aplico esses princípios em cada projeto que desenvolvo.
+Acredito que automação, observabilidade e padronização são a base para sistemas confiáveis e escaláveis e aplico esses princípios em cada projeto que desenvolvo.
 
 ### Sobre mim
 
