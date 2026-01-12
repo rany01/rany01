@@ -5,16 +5,15 @@
 
 ## Bem-vindo(a) ao meu repositório!
 
+Acredito que automação, observabilidade e padronização são a base para sistemas confiáveis e escaláveis — e aplico esses princípios em cada projeto que desenvolvo.
+
 ### Sobre mim
 
-🎯 Engenheiro DevOps em formação com experiência prática em automação de infraestrutura, containers e nuvem (AWS e GCP). Trabalho com IaC utilizando Terraform, pipelines de CI/CD com GitHub Actions, orquestração de containers com Kubernetes (Kind, Minikube e EKS), além de Docker e versionamento com Git.
+Sou DevOps Engineer, com foco em Cloud Computing, automação e Infraestrutura como Código, atuando na construção e operação de ambientes cloud-native escaláveis, seguros e reproduzíveis.
 
-📦 Desenvolvo e mantenho ambientes de laboratório para aplicações em nuvem, aplicando conceitos de segurança, escalabilidade e boas práticas DevOps. Participo ativamente de projetos próprios, focando na construção de ambientes reproduzíveis e automatizados.
+Tenho experiência prática com AWS, containers, Kubernetes, Terraform, CI/CD e GitOps, trabalhando com arquiteturas multiambiente (dev, stage e prod) e pipelines automatizados, sempre orientado à entrega de valor e boas práticas DevOps.
 
-🧠 Autodidata, comunicativo e focado em aprender continuamente tecnologias como GitOps (ArgoCD), observabilidade e microsserviços.
-
-💡 Acredito na automação como motor de inovação e produtividade — e busco aplicar isso em cada projeto.
-
+Atualmente, sou responsável por toda a arquitetura DevOps de um produto real, desde o provisionamento da infraestrutura até o deploy e observabilidade das aplicações.
 
 <!--🔗 Veja meus projetos abaixo!-->
 #
@@ -28,6 +27,7 @@
 #### 🐳 Containers & Orquestração:
 - Docker (build, compose, imagens otimizadas)
 - Kubernetes (Kind, Minikube, EKS)
+- Helm
 
 #### 🔁 CI/CD & Automação:
 - GitHub Actions
@@ -37,11 +37,12 @@
 #### 📈 Monitoramento & Observabilidade:
 - Prometheus
 - Grafana
+- SigNoz
 - Logs e métricas básicas
 
 #### 💻 Outros conhecimentos:
 - Linux (linha de comando, shell scripting)
-- Redes (conceitos básicos de DNS, TCP/IP, subnets)
+- Redes (DNS, TCP/IP, subnets)
 - Markdown, documentação técnica
 #
 <!--### Skills
