@@ -73,7 +73,8 @@ Atualmente, sou responsável por toda a arquitetura DevOps de um produto real, d
 #### Eu estou estudando...
 
   • Azure
-  • Istio
+  • Go
+
 
 
 #### Entre em contato comigo! 📭
